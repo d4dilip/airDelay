@@ -1,0 +1,69 @@
+<ion-view title="{{airDelay.name}}">
+    <ion-content class="has-header">
+        <div class="card">
+            <div class="item item-divider">
+                {{airDelay.name}}
+                <span ng-if="airDelay.delay==true" class="badge badge-assertive">Delay</span>
+                <span ng-if="airDelay.delay==false" class="badge badge-balanced">On Time</span>
+            </div>
+            <div class="list">
+
+                <a class="item">
+                    <h2>Name</h2>
+                    <p> ({{airDelay.city}}-{{airDelay.state}})</p>
+                </a>
+                <a class="item">
+                    <h2>IATA - ICAO</h2>
+                    <p> {{airDelay.IATA}} - {{airDelay.ICAO}}</p>
+                </a>
+
+                <a class="item">
+                    <h2>Avg Delay</h2>
+                    <p> {{airDelay.status.avgDelay}}</p>
+                </a>
+                <a class="item">
+                    <h2>Closure Begin</h2>
+                    <p> {{airDelay.status.closureBegin}}</p>
+                </a>
+                <a class="item">
+                    <h2>End Time</h2>
+                    <p> {{airDelay.status.endTime}}</p>
+                </a>
+                <a class="item">
+                    <h2>Max. Delay</h2>
+                    <p> {{airDelay.status.maxDelay}}</p>
+                </a>
+                <a class="item">
+                    <h2>Reason</h2>
+                    <p> {{airDelay.status.reason}}</p>
+                </a>
+                <a class="item">
+                    <h2>Trend</h2>
+                    <p> {{airDelay.status.trend}}</p>
+                </a>
+                <a class="item">
+                    <h2>Type</h2>
+                    <p> {{airDelay.status.type}}</p>
+                </a>
+                <div class="item item-divider">
+                    Weather -{{airDelay.weather.weather}}
+                </div>
+                <a class="item">
+                    <h2>Temp.</h2>
+                    <p> {{airDelay.weather.temp}}</p>
+                </a>
+                <a class="item">
+                    <h2>Visibility</h2>
+                    <p> {{airDelay.weather.visibility}}</p>
+                </a>
+                <a class="item">
+                    <h2>Wind</h2>
+                    <p> {{airDelay.weather.wind}}</p>
+                </a>
+            </div>
+            <div class="item item-divider">
+                {{airDelay.name}}
+            </div>
+        </div>
+    </ion-content>
+</ion-view>

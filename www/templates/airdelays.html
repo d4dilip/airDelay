@@ -1,0 +1,26 @@
+<ion-view title="AirDelays" >
+  
+    <ion-content >
+        <!--<ion-list>-->
+
+        <div class="list">
+            <div class="item-input-inset">
+                <label class="item-input-wrapper">
+                    <i class="icon ion-search placeholder-icon"></i>
+                    <input type="search"
+                           placeholder="Search .."
+                           ng-model="txtSearch">
+                </label>
+            </div>
+            <a class="item item-icon-right"
+               href="#/app/airdelays/{{airlist.IATA}}"
+               ng-repeat="airlist in airDelaysList | filter:txtSearch">
+                <h2>{{airlist.name}}</h2>
+                <p> ({{airlist.city}}-{{airlist.state}})</p>
+                <span ng-if="airlist.delay==true" class="badge badge-assertive">Delay</span>
+                <span ng-if="airlist.delay==false" class="badge badge-balanced">On Time</span>
+
+            </a>
+        </div>
+    </ion-content>
+</ion-view>

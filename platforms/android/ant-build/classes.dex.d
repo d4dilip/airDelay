@@ -1,0 +1,22 @@
+C:\E\02 MobileApps\IonicExamples\AirDelay\platforms\android\ant-build\classes.dex : \
+C:\E\02 MobileApps\IonicExamples\AirDelay\platforms\android\ant-build\classes\com\ionic\keyboard\IonicKeyboard$1.class \
+C:\E\02 MobileApps\IonicExamples\AirDelay\platforms\android\ant-build\classes\com\ionic\keyboard\IonicKeyboard$2.class \
+C:\E\02 MobileApps\IonicExamples\AirDelay\platforms\android\ant-build\classes\com\ionic\keyboard\IonicKeyboard$3.class \
+C:\E\02 MobileApps\IonicExamples\AirDelay\platforms\android\ant-build\classes\com\ionic\keyboard\IonicKeyboard.class \
+C:\E\02 MobileApps\IonicExamples\AirDelay\platforms\android\ant-build\classes\com\ionicframework\airdelay557750\AirDelay.class \
+C:\E\02 MobileApps\IonicExamples\AirDelay\platforms\android\ant-build\classes\com\ionicframework\airdelay557750\BuildConfig.class \
+C:\E\02 MobileApps\IonicExamples\AirDelay\platforms\android\ant-build\classes\com\ionicframework\airdelay557750\R$attr.class \
+C:\E\02 MobileApps\IonicExamples\AirDelay\platforms\android\ant-build\classes\com\ionicframework\airdelay557750\R$drawable.class \
+C:\E\02 MobileApps\IonicExamples\AirDelay\platforms\android\ant-build\classes\com\ionicframework\airdelay557750\R$string.class \
+C:\E\02 MobileApps\IonicExamples\AirDelay\platforms\android\ant-build\classes\com\ionicframework\airdelay557750\R$xml.class \
+C:\E\02 MobileApps\IonicExamples\AirDelay\platforms\android\ant-build\classes\com\ionicframework\airdelay557750\R.class \
+C:\E\02 MobileApps\IonicExamples\AirDelay\platforms\android\ant-build\classes\com\ru\airdelay\AirDelay.class \
+C:\E\02 MobileApps\IonicExamples\AirDelay\platforms\android\ant-build\classes\com\ru\airdelay\BuildConfig.class \
+C:\E\02 MobileApps\IonicExamples\AirDelay\platforms\android\ant-build\classes\com\ru\airdelay\R$attr.class \
+C:\E\02 MobileApps\IonicExamples\AirDelay\platforms\android\ant-build\classes\com\ru\airdelay\R$drawable.class \
+C:\E\02 MobileApps\IonicExamples\AirDelay\platforms\android\ant-build\classes\com\ru\airdelay\R$string.class \
+C:\E\02 MobileApps\IonicExamples\AirDelay\platforms\android\ant-build\classes\com\ru\airdelay\R$xml.class \
+C:\E\02 MobileApps\IonicExamples\AirDelay\platforms\android\ant-build\classes\com\ru\airdelay\R.class \
+C:\E\02 MobileApps\IonicExamples\AirDelay\platforms\android\ant-build\classes\org\apache\cordova\device\Device.class \
+C:\E\02 MobileApps\IonicExamples\AirDelay\platforms\android\ant-build\classes\org\apache\cordova\splashscreen\SplashScreen.class \
+C:\E\02 MobileApps\IonicExamples\AirDelay\platforms\android\ant-build\dexedLibs\classes-108764c161b808a93cdb449b5f46cc49.jar \
